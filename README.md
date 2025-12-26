@@ -1,16 +1,31 @@
-## Hi there 👋
+# Bonjour ! Je suis Malak 🌸
 
-<!--
-**mlo909209-bit/mlo909209-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Âge :** 20 ans  
+**Localisation :** Algérie  
+**Spécialité :** Développement Web et Mobile  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Compétences
+- HTML / CSS / JavaScript  
+- React / Laravel / Git  
+- GitHub & GitHub Pages  
+
+---
+
+## 🚀 Projets
+- [To-Do List App](https://mlo909209-bit.github.io/)  
+- Projet personnel 2 (ajoute le lien ici)  
+- Projet personnel 3 (ajoute le lien ici)  
+
+---
+
+## 📫 Contact
+- 📧 Email : malak@example.com  
+- 🌐 LinkedIn : [Ton profil LinkedIn](https://linkedin.com/in/malak)  
+- 🐦 Twitter : [Ton Twitter](https://twitter.com/tonprofil)  
+
+---
+
+## 📊 GitHub Stats
+![Malak GitHub Stats](https://github-readme-stats.vercel.app/api?username=mlo909209-bit&show_icons=true&theme=radical)
